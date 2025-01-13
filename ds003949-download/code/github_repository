@@ -1,0 +1,7 @@
+All the code used for this dataset can be found at:
+
+https://github.com/connectomicslab/Aneurysm_Detection
+
+Please cite the following reference if you use the data or the code:
+
+Di Noto, et al. "Towards automated brain aneurysm detection in TOF-MRA: open data, weak labels, and anatomical knowledge" arXiv preprint arXiv:2103.06168v5 (2021).
