@@ -12,6 +12,9 @@ numpy = "^2.2.1"
 pandas = "^2.2.3"
 jupyterlab-vim = "^4.1.4"
 jupyterlab-git = "^0.50.2"
+nibabel = "^5.3.2"
+matplotlib = "^3.10.0"
+jupyter = "^1.1.1"
 
 
 [build-system]
